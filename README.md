@@ -2,7 +2,7 @@
 Arduino project using an HC-SR04 ultrasonic sensor to control an SG90 servo motor based on object distance
 
 # Ultrasonic Sensor with Servo Motor
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/2a87cb68-ca06-4acc-99d3-23f6c3479e4b" />
+<img width="1242" height="679" alt="image" src="https://github.com/user-attachments/assets/afd26bb4-ffe3-498a-a319-343dad7e060c" />
 
 ## Project Description
 This project uses an HC-SR04 Ultrasonic Sensor to measure distance and control an SG90 Servo Motor using an Arduino Uno.
